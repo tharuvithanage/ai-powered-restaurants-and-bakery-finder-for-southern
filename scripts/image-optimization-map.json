@@ -1,0 +1,240 @@
+﻿[
+    {
+        "source":  "Akeerawatalappan.jpeg",
+        "target":  "Akeerawatalappan.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "cactus1.PNG",
+        "target":  "cactus1.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "crust1.jpeg",
+        "target":  "crust1.jpeg",
+        "resized":  true,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "crust2.jpeg",
+        "target":  "crust2.jpeg",
+        "resized":  true,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "crust3.PNG",
+        "target":  "crust3.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "crust4.PNG",
+        "target":  "crust4.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "crustahangama.jpg",
+        "target":  "crustahangama.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "doublebarrel.jpeg",
+        "target":  "doublebarrel.jpeg",
+        "resized":  true,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Doublebarrel2.jpg",
+        "target":  "Doublebarrel2.jpg",
+        "resized":  true,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Doublebarrel3.jpg",
+        "target":  "Doublebarrel3.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Downsouth.png",
+        "target":  "Downsouth.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "downsouthimg.jpg",
+        "target":  "downsouthimg.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "dutchlanka.png",
+        "target":  "dutchlanka.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Dutchlanka1.PNG",
+        "target":  "Dutchlanka1.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Dutchlanka2.PNG",
+        "target":  "Dutchlanka2.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Dutchlanka3.PNG",
+        "target":  "Dutchlanka3.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Dutchlanka4.PNG",
+        "target":  "Dutchlanka4.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Hasara.jpg",
+        "target":  "Hasara.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Hasara1.PNG",
+        "target":  "Hasara1.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Hasara2.PNG",
+        "target":  "Hasara2.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "Hasara3.PNG",
+        "target":  "Hasara3.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "HasaraGalle.jpeg",
+        "target":  "HasaraGalle.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "imageex2.jpg",
+        "target":  "imageex2.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "kai1.jpeg",
+        "target":  "kai1.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "kai2.jpeg",
+        "target":  "kai2.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "kai3.jpeg",
+        "target":  "kai3.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "kaiahangama.jpeg",
+        "target":  "kaiahangama.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "orangekitchen.jpeg",
+        "target":  "orangekitchen.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "sahanaurban1.jpeg",
+        "target":  "sahanaurban1.jpeg",
+        "resized":  true,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "sahanaurban2.PNG",
+        "target":  "sahanaurban2.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "sahanaurban3.PNG",
+        "target":  "sahanaurban3.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "sahanaurban4.PNG",
+        "target":  "sahanaurban4.jpg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "sahanaurbangalle.jpeg",
+        "target":  "sahanaurbangalle.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    },
+    {
+        "source":  "userprofilepic.jpeg",
+        "target":  "userprofilepic.jpeg",
+        "resized":  false,
+        "alpha":  true,
+        "nonOpaqueAlpha":  false
+    }
+]
